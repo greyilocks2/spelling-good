@@ -543,5 +543,1065 @@
     "word": "clothes",
     "year": 2,
     "sentence": "My clothes are clean."
+  },
+  {
+    "word": "accident",
+    "year": 34,
+    "sentence": "I had an accident on my bicycle."
+  },
+  {
+    "word": "accidentally",
+    "year": 34,
+    "sentence": "I accidentally dropped my pencil."
+  },
+  {
+    "word": "actual",
+    "year": 34,
+    "sentence": "The actual answer was different."
+  },
+  {
+    "word": "actually",
+    "year": 34,
+    "sentence": "I actually enjoyed the lesson."
+  },
+  {
+    "word": "address",
+    "year": 34,
+    "sentence": "Please write your address on the envelope."
+  },
+  {
+    "word": "answer",
+    "year": 34,
+    "sentence": "Can you answer this question?"
+  },
+  {
+    "word": "appear",
+    "year": 34,
+    "sentence": "The stars appear at night."
+  },
+  {
+    "word": "arrive",
+    "year": 34,
+    "sentence": "We will arrive before lunch."
+  },
+  {
+    "word": "believe",
+    "year": 34,
+    "sentence": "I believe you are telling the truth."
+  },
+  {
+    "word": "bicycle",
+    "year": 34,
+    "sentence": "My bicycle has a red bell."
+  },
+  {
+    "word": "breath",
+    "year": 34,
+    "sentence": "Take a deep breath before you swim."
+  },
+  {
+    "word": "breathe",
+    "year": 34,
+    "sentence": "It is easier to breathe outside."
+  },
+  {
+    "word": "build",
+    "year": 34,
+    "sentence": "We will build a house of bricks."
+  },
+  {
+    "word": "busy",
+    "year": 34,
+    "sentence": "The shop was busy today."
+  },
+  {
+    "word": "business",
+    "year": 34,
+    "sentence": "Her business sells fresh bread."
+  },
+  {
+    "word": "calendar",
+    "year": 34,
+    "sentence": "Mark the date on the calendar."
+  },
+  {
+    "word": "caught",
+    "year": 34,
+    "sentence": "She caught the ball."
+  },
+  {
+    "word": "centre",
+    "year": 34,
+    "sentence": "Stand in the centre of the circle."
+  },
+  {
+    "word": "century",
+    "year": 34,
+    "sentence": "A century is one hundred years."
+  },
+  {
+    "word": "certain",
+    "year": 34,
+    "sentence": "I am certain that this is right."
+  },
+  {
+    "word": "circle",
+    "year": 34,
+    "sentence": "Draw a circle around the answer."
+  },
+  {
+    "word": "complete",
+    "year": 34,
+    "sentence": "Please complete your homework."
+  },
+  {
+    "word": "consider",
+    "year": 34,
+    "sentence": "Consider both choices carefully."
+  },
+  {
+    "word": "continue",
+    "year": 34,
+    "sentence": "We can continue after lunch."
+  },
+  {
+    "word": "decide",
+    "year": 34,
+    "sentence": "You must decide which game to play."
+  },
+  {
+    "word": "describe",
+    "year": 34,
+    "sentence": "Can you describe the animal?"
+  },
+  {
+    "word": "different",
+    "year": 34,
+    "sentence": "My shoes are different colours."
+  },
+  {
+    "word": "difficult",
+    "year": 34,
+    "sentence": "This puzzle is difficult."
+  },
+  {
+    "word": "disappear",
+    "year": 34,
+    "sentence": "The clouds will disappear soon."
+  },
+  {
+    "word": "early",
+    "year": 34,
+    "sentence": "We got up early for the trip."
+  },
+  {
+    "word": "earth",
+    "year": 34,
+    "sentence": "The earth goes around the sun."
+  },
+  {
+    "word": "eight",
+    "year": 34,
+    "sentence": "There are eight candles on the cake."
+  },
+  {
+    "word": "eighth",
+    "year": 34,
+    "sentence": "She finished in eighth place."
+  },
+  {
+    "word": "enough",
+    "year": 34,
+    "sentence": "We have enough water for everyone."
+  },
+  {
+    "word": "exercise",
+    "year": 34,
+    "sentence": "Running is good exercise."
+  },
+  {
+    "word": "experience",
+    "year": 34,
+    "sentence": "The trip was a wonderful experience."
+  },
+  {
+    "word": "experiment",
+    "year": 34,
+    "sentence": "We did an experiment in science."
+  },
+  {
+    "word": "extreme",
+    "year": 34,
+    "sentence": "The mountain has extreme weather."
+  },
+  {
+    "word": "famous",
+    "year": 34,
+    "sentence": "The singer became famous."
+  },
+  {
+    "word": "favourite",
+    "year": 34,
+    "sentence": "Blue is my favourite colour."
+  },
+  {
+    "word": "February",
+    "year": 34,
+    "sentence": "My birthday is in February."
+  },
+  {
+    "word": "forward",
+    "year": 34,
+    "sentence": "Take one step forward."
+  },
+  {
+    "word": "forwards",
+    "year": 34,
+    "sentence": "Walk forwards to the door."
+  },
+  {
+    "word": "fruit",
+    "year": 34,
+    "sentence": "We ate fresh fruit at lunch."
+  },
+  {
+    "word": "grammar",
+    "year": 34,
+    "sentence": "Good grammar helps us write clearly."
+  },
+  {
+    "word": "group",
+    "year": 34,
+    "sentence": "Our group worked together."
+  },
+  {
+    "word": "guard",
+    "year": 34,
+    "sentence": "The guard stood by the gate."
+  },
+  {
+    "word": "guide",
+    "year": 34,
+    "sentence": "The guide showed us the museum."
+  },
+  {
+    "word": "heard",
+    "year": 34,
+    "sentence": "I heard a strange noise."
+  },
+  {
+    "word": "heart",
+    "year": 34,
+    "sentence": "My heart beats faster when I run."
+  },
+  {
+    "word": "height",
+    "year": 34,
+    "sentence": "We measured the height of the tree."
+  },
+  {
+    "word": "history",
+    "year": 34,
+    "sentence": "We learned about history at school."
+  },
+  {
+    "word": "imagine",
+    "year": 34,
+    "sentence": "Imagine living on the moon."
+  },
+  {
+    "word": "increase",
+    "year": 34,
+    "sentence": "We hope to increase our score."
+  },
+  {
+    "word": "important",
+    "year": 34,
+    "sentence": "It is important to be kind."
+  },
+  {
+    "word": "interest",
+    "year": 34,
+    "sentence": "I have an interest in space."
+  },
+  {
+    "word": "island",
+    "year": 34,
+    "sentence": "We visited a small island."
+  },
+  {
+    "word": "knowledge",
+    "year": 34,
+    "sentence": "Reading increases your knowledge."
+  },
+  {
+    "word": "learn",
+    "year": 34,
+    "sentence": "I want to learn to swim."
+  },
+  {
+    "word": "length",
+    "year": 34,
+    "sentence": "Measure the length of the table."
+  },
+  {
+    "word": "library",
+    "year": 34,
+    "sentence": "I borrowed a book from the library."
+  },
+  {
+    "word": "material",
+    "year": 34,
+    "sentence": "This material is very soft."
+  },
+  {
+    "word": "medicine",
+    "year": 34,
+    "sentence": "The doctor gave her medicine."
+  },
+  {
+    "word": "mention",
+    "year": 34,
+    "sentence": "Please mention it to your teacher."
+  },
+  {
+    "word": "minute",
+    "year": 34,
+    "sentence": "Wait a minute for me."
+  },
+  {
+    "word": "natural",
+    "year": 34,
+    "sentence": "The cave was formed by natural forces."
+  },
+  {
+    "word": "naughty",
+    "year": 34,
+    "sentence": "The naughty puppy chewed a shoe."
+  },
+  {
+    "word": "notice",
+    "year": 34,
+    "sentence": "Did you notice the new sign?"
+  },
+  {
+    "word": "occasion",
+    "year": 34,
+    "sentence": "This is a special occasion."
+  },
+  {
+    "word": "occasionally",
+    "year": 34,
+    "sentence": "We occasionally go to the cinema."
+  },
+  {
+    "word": "often",
+    "year": 34,
+    "sentence": "I often walk to school."
+  },
+  {
+    "word": "opposite",
+    "year": 34,
+    "sentence": "The park is opposite the shop."
+  },
+  {
+    "word": "ordinary",
+    "year": 34,
+    "sentence": "It looked like an ordinary day."
+  },
+  {
+    "word": "particular",
+    "year": 34,
+    "sentence": "I want that particular book."
+  },
+  {
+    "word": "peculiar",
+    "year": 34,
+    "sentence": "There was a peculiar smell."
+  },
+  {
+    "word": "perhaps",
+    "year": 34,
+    "sentence": "Perhaps we can go tomorrow."
+  },
+  {
+    "word": "popular",
+    "year": 34,
+    "sentence": "Football is a popular sport."
+  },
+  {
+    "word": "position",
+    "year": 34,
+    "sentence": "Put the chair in the right position."
+  },
+  {
+    "word": "possess",
+    "year": 34,
+    "sentence": "You must possess a ticket to enter."
+  },
+  {
+    "word": "possession",
+    "year": 34,
+    "sentence": "The bag was in her possession."
+  },
+  {
+    "word": "possible",
+    "year": 34,
+    "sentence": "Is it possible to finish today?"
+  },
+  {
+    "word": "potatoes",
+    "year": 34,
+    "sentence": "We grew potatoes in the garden."
+  },
+  {
+    "word": "pressure",
+    "year": 34,
+    "sentence": "The water pressure was strong."
+  },
+  {
+    "word": "probably",
+    "year": 34,
+    "sentence": "It will probably rain later."
+  },
+  {
+    "word": "promise",
+    "year": 34,
+    "sentence": "I promise to help you."
+  },
+  {
+    "word": "purpose",
+    "year": 34,
+    "sentence": "What is the purpose of this tool?"
+  },
+  {
+    "word": "quarter",
+    "year": 34,
+    "sentence": "A quarter of the cake was left."
+  },
+  {
+    "word": "question",
+    "year": 34,
+    "sentence": "Please ask a question."
+  },
+  {
+    "word": "recent",
+    "year": 34,
+    "sentence": "We discussed a recent event."
+  },
+  {
+    "word": "regular",
+    "year": 34,
+    "sentence": "He takes regular breaks."
+  },
+  {
+    "word": "reign",
+    "year": 34,
+    "sentence": "The king's reign lasted many years."
+  },
+  {
+    "word": "remember",
+    "year": 34,
+    "sentence": "Remember to bring your coat."
+  },
+  {
+    "word": "sentence",
+    "year": 34,
+    "sentence": "Write a sentence about your pet."
+  },
+  {
+    "word": "separate",
+    "year": 34,
+    "sentence": "Keep the clean clothes separate."
+  },
+  {
+    "word": "special",
+    "year": 34,
+    "sentence": "Today is a special day."
+  },
+  {
+    "word": "straight",
+    "year": 34,
+    "sentence": "Draw a straight line."
+  },
+  {
+    "word": "strange",
+    "year": 34,
+    "sentence": "We heard a strange sound."
+  },
+  {
+    "word": "strength",
+    "year": 34,
+    "sentence": "The bridge has great strength."
+  },
+  {
+    "word": "suppose",
+    "year": 34,
+    "sentence": "I suppose we could try again."
+  },
+  {
+    "word": "surprise",
+    "year": 34,
+    "sentence": "The party was a surprise."
+  },
+  {
+    "word": "therefore",
+    "year": 34,
+    "sentence": "It was raining; therefore, we stayed inside."
+  },
+  {
+    "word": "although",
+    "year": 34,
+    "sentence": "Although it rained, we played outside."
+  },
+  {
+    "word": "thought",
+    "year": 34,
+    "sentence": "I thought about the answer."
+  },
+  {
+    "word": "through",
+    "year": 34,
+    "sentence": "We walked through the forest."
+  },
+  {
+    "word": "various",
+    "year": 34,
+    "sentence": "We tried various games."
+  },
+  {
+    "word": "weight",
+    "year": 34,
+    "sentence": "What is the weight of this bag?"
+  },
+  {
+    "word": "woman",
+    "year": 34,
+    "sentence": "The woman waved to us."
+  },
+  {
+    "word": "women",
+    "year": 34,
+    "sentence": "The women sang together."
+  },
+  {
+    "word": "accommodate",
+    "year": 56,
+    "sentence": "The hotel can accommodate our whole family."
+  },
+  {
+    "word": "accompany",
+    "year": 56,
+    "sentence": "Will you accompany me to the shop?"
+  },
+  {
+    "word": "according",
+    "year": 56,
+    "sentence": "According to the map, we are close."
+  },
+  {
+    "word": "achieve",
+    "year": 56,
+    "sentence": "You can achieve your goal with practice."
+  },
+  {
+    "word": "aggressive",
+    "year": 56,
+    "sentence": "The dog became aggressive when frightened."
+  },
+  {
+    "word": "amateur",
+    "year": 56,
+    "sentence": "He is an amateur photographer."
+  },
+  {
+    "word": "ancient",
+    "year": 56,
+    "sentence": "We visited an ancient castle."
+  },
+  {
+    "word": "apparent",
+    "year": 56,
+    "sentence": "It became apparent that we were lost."
+  },
+  {
+    "word": "appreciate",
+    "year": 56,
+    "sentence": "I appreciate your help."
+  },
+  {
+    "word": "attached",
+    "year": 56,
+    "sentence": "The note was attached to the parcel."
+  },
+  {
+    "word": "available",
+    "year": 56,
+    "sentence": "There are tickets available today."
+  },
+  {
+    "word": "average",
+    "year": 56,
+    "sentence": "Our average score improved."
+  },
+  {
+    "word": "awkward",
+    "year": 56,
+    "sentence": "It was awkward to carry the large box."
+  },
+  {
+    "word": "bargain",
+    "year": 56,
+    "sentence": "The coat was a real bargain."
+  },
+  {
+    "word": "bruise",
+    "year": 56,
+    "sentence": "I had a bruise on my knee."
+  },
+  {
+    "word": "category",
+    "year": 56,
+    "sentence": "Put each book in the correct category."
+  },
+  {
+    "word": "cemetery",
+    "year": 56,
+    "sentence": "The old cemetery was beside the church."
+  },
+  {
+    "word": "committee",
+    "year": 56,
+    "sentence": "The committee planned the school fair."
+  },
+  {
+    "word": "communicate",
+    "year": 56,
+    "sentence": "We communicate by speaking and writing."
+  },
+  {
+    "word": "community",
+    "year": 56,
+    "sentence": "Our community planted new trees."
+  },
+  {
+    "word": "competition",
+    "year": 56,
+    "sentence": "She entered a spelling competition."
+  },
+  {
+    "word": "conscience",
+    "year": 56,
+    "sentence": "His conscience told him to be honest."
+  },
+  {
+    "word": "conscious",
+    "year": 56,
+    "sentence": "She was conscious after the fall."
+  },
+  {
+    "word": "controversy",
+    "year": 56,
+    "sentence": "The decision caused controversy."
+  },
+  {
+    "word": "convenience",
+    "year": 56,
+    "sentence": "The shop opened for our convenience."
+  },
+  {
+    "word": "correspond",
+    "year": 56,
+    "sentence": "Our answers correspond with the results."
+  },
+  {
+    "word": "criticise",
+    "year": 56,
+    "sentence": "Try not to criticise other people's efforts."
+  },
+  {
+    "word": "curiosity",
+    "year": 56,
+    "sentence": "Her curiosity led her to ask questions."
+  },
+  {
+    "word": "definite",
+    "year": 56,
+    "sentence": "We have a definite plan."
+  },
+  {
+    "word": "desperate",
+    "year": 56,
+    "sentence": "He was desperate for a drink of water."
+  },
+  {
+    "word": "determined",
+    "year": 56,
+    "sentence": "She was determined to finish the race."
+  },
+  {
+    "word": "develop",
+    "year": 56,
+    "sentence": "Plants develop from tiny seeds."
+  },
+  {
+    "word": "dictionary",
+    "year": 56,
+    "sentence": "Look up the word in a dictionary."
+  },
+  {
+    "word": "disastrous",
+    "year": 56,
+    "sentence": "The storm had disastrous effects."
+  },
+  {
+    "word": "embarrass",
+    "year": 56,
+    "sentence": "Please do not embarrass your friend."
+  },
+  {
+    "word": "environment",
+    "year": 56,
+    "sentence": "We should protect the environment."
+  },
+  {
+    "word": "equip",
+    "year": 56,
+    "sentence": "We need to equip the classroom."
+  },
+  {
+    "word": "equipped",
+    "year": 56,
+    "sentence": "The team was equipped for the climb."
+  },
+  {
+    "word": "equipment",
+    "year": 56,
+    "sentence": "Put the sports equipment away."
+  },
+  {
+    "word": "especially",
+    "year": 56,
+    "sentence": "I especially like strawberries."
+  },
+  {
+    "word": "exaggerate",
+    "year": 56,
+    "sentence": "Do not exaggerate what happened."
+  },
+  {
+    "word": "excellent",
+    "year": 56,
+    "sentence": "You did an excellent job."
+  },
+  {
+    "word": "existence",
+    "year": 56,
+    "sentence": "Scientists found evidence of its existence."
+  },
+  {
+    "word": "explanation",
+    "year": 56,
+    "sentence": "She gave a clear explanation."
+  },
+  {
+    "word": "familiar",
+    "year": 56,
+    "sentence": "That song sounds familiar."
+  },
+  {
+    "word": "foreign",
+    "year": 56,
+    "sentence": "He is learning a foreign language."
+  },
+  {
+    "word": "forty",
+    "year": 56,
+    "sentence": "My uncle is forty years old."
+  },
+  {
+    "word": "frequently",
+    "year": 56,
+    "sentence": "We frequently visit the library."
+  },
+  {
+    "word": "government",
+    "year": 56,
+    "sentence": "The government announced a new rule."
+  },
+  {
+    "word": "guarantee",
+    "year": 56,
+    "sentence": "I cannot guarantee good weather."
+  },
+  {
+    "word": "harass",
+    "year": 56,
+    "sentence": "It is wrong to harass another person."
+  },
+  {
+    "word": "hindrance",
+    "year": 56,
+    "sentence": "The heavy bag was a hindrance."
+  },
+  {
+    "word": "identity",
+    "year": 56,
+    "sentence": "The detective checked his identity."
+  },
+  {
+    "word": "immediate",
+    "year": 56,
+    "sentence": "We need an immediate answer."
+  },
+  {
+    "word": "immediately",
+    "year": 56,
+    "sentence": "Come inside immediately, please."
+  },
+  {
+    "word": "individual",
+    "year": 56,
+    "sentence": "Each individual received a prize."
+  },
+  {
+    "word": "interfere",
+    "year": 56,
+    "sentence": "Please do not interfere with the game."
+  },
+  {
+    "word": "interrupt",
+    "year": 56,
+    "sentence": "Do not interrupt when someone is speaking."
+  },
+  {
+    "word": "language",
+    "year": 56,
+    "sentence": "Spanish is a beautiful language."
+  },
+  {
+    "word": "leisure",
+    "year": 56,
+    "sentence": "I read books in my leisure time."
+  },
+  {
+    "word": "lightning",
+    "year": 56,
+    "sentence": "We saw lightning during the storm."
+  },
+  {
+    "word": "marvellous",
+    "year": 56,
+    "sentence": "We had a marvellous holiday."
+  },
+  {
+    "word": "mischievous",
+    "year": 56,
+    "sentence": "The mischievous kitten hid my sock."
+  },
+  {
+    "word": "muscle",
+    "year": 56,
+    "sentence": "I pulled a muscle in my leg."
+  },
+  {
+    "word": "necessary",
+    "year": 56,
+    "sentence": "It is necessary to wear a helmet."
+  },
+  {
+    "word": "neighbour",
+    "year": 56,
+    "sentence": "Our neighbour has a friendly dog."
+  },
+  {
+    "word": "nuisance",
+    "year": 56,
+    "sentence": "The buzzing fly was a nuisance."
+  },
+  {
+    "word": "occupy",
+    "year": 56,
+    "sentence": "The books occupy the whole shelf."
+  },
+  {
+    "word": "occur",
+    "year": 56,
+    "sentence": "When did the accident occur?"
+  },
+  {
+    "word": "opportunity",
+    "year": 56,
+    "sentence": "This is a great opportunity to learn."
+  },
+  {
+    "word": "parliament",
+    "year": 56,
+    "sentence": "The law was discussed in parliament."
+  },
+  {
+    "word": "persuade",
+    "year": 56,
+    "sentence": "Can you persuade him to join us?"
+  },
+  {
+    "word": "physical",
+    "year": 56,
+    "sentence": "Swimming is a physical activity."
+  },
+  {
+    "word": "prejudice",
+    "year": 56,
+    "sentence": "We should challenge unfair prejudice."
+  },
+  {
+    "word": "privilege",
+    "year": 56,
+    "sentence": "It is a privilege to represent the school."
+  },
+  {
+    "word": "profession",
+    "year": 56,
+    "sentence": "Teaching is an important profession."
+  },
+  {
+    "word": "programme",
+    "year": 56,
+    "sentence": "We watched a wildlife programme."
+  },
+  {
+    "word": "pronunciation",
+    "year": 56,
+    "sentence": "Check the pronunciation of the word."
+  },
+  {
+    "word": "queue",
+    "year": 56,
+    "sentence": "We waited in a queue for lunch."
+  },
+  {
+    "word": "recognise",
+    "year": 56,
+    "sentence": "I did not recognise him at first."
+  },
+  {
+    "word": "recommend",
+    "year": 56,
+    "sentence": "Can you recommend a good book?"
+  },
+  {
+    "word": "relevant",
+    "year": 56,
+    "sentence": "Please give a relevant example."
+  },
+  {
+    "word": "restaurant",
+    "year": 56,
+    "sentence": "We ate dinner at a restaurant."
+  },
+  {
+    "word": "rhyme",
+    "year": 56,
+    "sentence": "These two words rhyme."
+  },
+  {
+    "word": "rhythm",
+    "year": 56,
+    "sentence": "Clap along to the rhythm."
+  },
+  {
+    "word": "sacrifice",
+    "year": 56,
+    "sentence": "She made a sacrifice to help others."
+  },
+  {
+    "word": "secretary",
+    "year": 56,
+    "sentence": "The secretary answered the telephone."
+  },
+  {
+    "word": "shoulder",
+    "year": 56,
+    "sentence": "He carried the bag on his shoulder."
+  },
+  {
+    "word": "signature",
+    "year": 56,
+    "sentence": "Please write your signature here."
+  },
+  {
+    "word": "sincere",
+    "year": 56,
+    "sentence": "Her apology was sincere."
+  },
+  {
+    "word": "sincerely",
+    "year": 56,
+    "sentence": "He sincerely thanked his friends."
+  },
+  {
+    "word": "soldier",
+    "year": 56,
+    "sentence": "The soldier returned home safely."
+  },
+  {
+    "word": "stomach",
+    "year": 56,
+    "sentence": "My stomach rumbled before lunch."
+  },
+  {
+    "word": "sufficient",
+    "year": 56,
+    "sentence": "We have sufficient food for everyone."
+  },
+  {
+    "word": "suggest",
+    "year": 56,
+    "sentence": "I suggest we start now."
+  },
+  {
+    "word": "symbol",
+    "year": 56,
+    "sentence": "A heart is a symbol of love."
+  },
+  {
+    "word": "system",
+    "year": 56,
+    "sentence": "Our school has a new system."
+  },
+  {
+    "word": "temperature",
+    "year": 56,
+    "sentence": "The temperature dropped overnight."
+  },
+  {
+    "word": "thorough",
+    "year": 56,
+    "sentence": "She made a thorough check of her work."
+  },
+  {
+    "word": "twelfth",
+    "year": 56,
+    "sentence": "He came twelfth in the race."
+  },
+  {
+    "word": "variety",
+    "year": 56,
+    "sentence": "We ate a variety of fruit."
+  },
+  {
+    "word": "vegetable",
+    "year": 56,
+    "sentence": "A carrot is a vegetable."
+  },
+  {
+    "word": "vehicle",
+    "year": 56,
+    "sentence": "The vehicle stopped at the crossing."
+  },
+  {
+    "word": "yacht",
+    "year": 56,
+    "sentence": "We saw a yacht in the harbour."
   }
 ]

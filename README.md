@@ -37,3 +37,12 @@ The service worker cache is updated to v2. Refresh the published page (possibly 
 ## Version 3
 
 The test displays an example sentence with the target word replaced by a fixed-width blank. The child can hear the word or full example sentence. Voice selection and a 60–110% speed slider (default 85%) are provided and remembered on the device. Available voices depend on browser and installed system voices. On localhost the app unregisters its service worker to make development updates easier; previously cached pages may require a one-time unregister and hard refresh. IndexedDB progress is retained.
+
+
+## Version 4 additions
+
+The stage selector now shows Year 1, Year 2, Years 3/4, and Years 5/6.
+The Years 3/4 and Years 5/6 words were transcribed from the two supplied school images.
+Words printed with parenthesised endings (e.g. accident(ally)) have been expanded into separate spellings where appropriate.
+Every new word has a sentence with the spelling masked in the quiz.
+Existing progress is retained; the IndexedDB schema is unchanged. The offline cache name was updated to v4.
