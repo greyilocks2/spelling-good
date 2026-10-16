@@ -1,0 +1,547 @@
+[
+  {
+    "word": "the",
+    "year": 1,
+    "sentence": "The dog is sleeping."
+  },
+  {
+    "word": "a",
+    "year": 1,
+    "sentence": "I saw a cat."
+  },
+  {
+    "word": "do",
+    "year": 1,
+    "sentence": "Do you like apples?"
+  },
+  {
+    "word": "to",
+    "year": 1,
+    "sentence": "I went to the park."
+  },
+  {
+    "word": "today",
+    "year": 1,
+    "sentence": "Today is sunny."
+  },
+  {
+    "word": "of",
+    "year": 1,
+    "sentence": "A cup of tea."
+  },
+  {
+    "word": "said",
+    "year": 1,
+    "sentence": "She said hello."
+  },
+  {
+    "word": "says",
+    "year": 1,
+    "sentence": "He says good morning."
+  },
+  {
+    "word": "are",
+    "year": 1,
+    "sentence": "We are ready."
+  },
+  {
+    "word": "were",
+    "year": 1,
+    "sentence": "They were happy."
+  },
+  {
+    "word": "was",
+    "year": 1,
+    "sentence": "It was raining."
+  },
+  {
+    "word": "is",
+    "year": 1,
+    "sentence": "This is my bag."
+  },
+  {
+    "word": "his",
+    "year": 1,
+    "sentence": "That is his hat."
+  },
+  {
+    "word": "has",
+    "year": 1,
+    "sentence": "She has a pencil."
+  },
+  {
+    "word": "i",
+    "year": 1,
+    "sentence": "I am ready."
+  },
+  {
+    "word": "you",
+    "year": 1,
+    "sentence": "You can play outside."
+  },
+  {
+    "word": "your",
+    "year": 1,
+    "sentence": "Is this your book?"
+  },
+  {
+    "word": "they",
+    "year": 1,
+    "sentence": "They went home."
+  },
+  {
+    "word": "be",
+    "year": 1,
+    "sentence": "Please be quiet."
+  },
+  {
+    "word": "full",
+    "year": 1,
+    "sentence": "The glass is full."
+  },
+  {
+    "word": "house",
+    "year": 1,
+    "sentence": "Our house has a garden."
+  },
+  {
+    "word": "our",
+    "year": 1,
+    "sentence": "Our team won the game."
+  },
+  {
+    "word": "he",
+    "year": 1,
+    "sentence": "He likes to read."
+  },
+  {
+    "word": "me",
+    "year": 1,
+    "sentence": "Please help me."
+  },
+  {
+    "word": "she",
+    "year": 1,
+    "sentence": "She can sing."
+  },
+  {
+    "word": "we",
+    "year": 1,
+    "sentence": "We went swimming."
+  },
+  {
+    "word": "no",
+    "year": 1,
+    "sentence": "No, thank you."
+  },
+  {
+    "word": "go",
+    "year": 1,
+    "sentence": "Go to the door."
+  },
+  {
+    "word": "so",
+    "year": 1,
+    "sentence": "I am so happy."
+  },
+  {
+    "word": "by",
+    "year": 1,
+    "sentence": "The book is by the bed."
+  },
+  {
+    "word": "my",
+    "year": 1,
+    "sentence": "This is my coat."
+  },
+  {
+    "word": "here",
+    "year": 1,
+    "sentence": "Come over here."
+  },
+  {
+    "word": "there",
+    "year": 1,
+    "sentence": "Put the bag there."
+  },
+  {
+    "word": "where",
+    "year": 1,
+    "sentence": "Where is my shoe?"
+  },
+  {
+    "word": "love",
+    "year": 1,
+    "sentence": "I love my family."
+  },
+  {
+    "word": "come",
+    "year": 1,
+    "sentence": "Please come inside."
+  },
+  {
+    "word": "some",
+    "year": 1,
+    "sentence": "Would you like some milk?"
+  },
+  {
+    "word": "one",
+    "year": 1,
+    "sentence": "I have one apple."
+  },
+  {
+    "word": "once",
+    "year": 1,
+    "sentence": "Once upon a time, there was a dragon."
+  },
+  {
+    "word": "ask",
+    "year": 1,
+    "sentence": "Can I ask a question?"
+  },
+  {
+    "word": "friend",
+    "year": 1,
+    "sentence": "My friend is coming over."
+  },
+  {
+    "word": "school",
+    "year": 1,
+    "sentence": "We walk to school."
+  },
+  {
+    "word": "put",
+    "year": 1,
+    "sentence": "Put the book away."
+  },
+  {
+    "word": "push",
+    "year": 1,
+    "sentence": "Push the door gently."
+  },
+  {
+    "word": "pull",
+    "year": 1,
+    "sentence": "Pull the rope slowly."
+  },
+  {
+    "word": "door",
+    "year": 2,
+    "sentence": "Close the door, please."
+  },
+  {
+    "word": "floor",
+    "year": 2,
+    "sentence": "The toy is on the floor."
+  },
+  {
+    "word": "poor",
+    "year": 2,
+    "sentence": "The poor kitten was cold."
+  },
+  {
+    "word": "because",
+    "year": 2,
+    "sentence": "I stayed inside because it rained."
+  },
+  {
+    "word": "find",
+    "year": 2,
+    "sentence": "Can you find the ball?"
+  },
+  {
+    "word": "kind",
+    "year": 2,
+    "sentence": "That was very kind of you."
+  },
+  {
+    "word": "mind",
+    "year": 2,
+    "sentence": "Please mind the step."
+  },
+  {
+    "word": "behind",
+    "year": 2,
+    "sentence": "The cat hid behind the sofa."
+  },
+  {
+    "word": "child",
+    "year": 2,
+    "sentence": "The child waved goodbye."
+  },
+  {
+    "word": "children",
+    "year": 2,
+    "sentence": "The children played together."
+  },
+  {
+    "word": "wild",
+    "year": 2,
+    "sentence": "We saw a wild rabbit."
+  },
+  {
+    "word": "climb",
+    "year": 2,
+    "sentence": "I can climb the ladder."
+  },
+  {
+    "word": "most",
+    "year": 2,
+    "sentence": "Most birds can fly."
+  },
+  {
+    "word": "only",
+    "year": 2,
+    "sentence": "I only need one pencil."
+  },
+  {
+    "word": "both",
+    "year": 2,
+    "sentence": "Both shoes are wet."
+  },
+  {
+    "word": "old",
+    "year": 2,
+    "sentence": "The tree is very old."
+  },
+  {
+    "word": "cold",
+    "year": 2,
+    "sentence": "It is cold outside."
+  },
+  {
+    "word": "gold",
+    "year": 2,
+    "sentence": "The ring is made of gold."
+  },
+  {
+    "word": "hold",
+    "year": 2,
+    "sentence": "Hold my hand."
+  },
+  {
+    "word": "told",
+    "year": 2,
+    "sentence": "Dad told a story."
+  },
+  {
+    "word": "every",
+    "year": 2,
+    "sentence": "I read every day."
+  },
+  {
+    "word": "everybody",
+    "year": 2,
+    "sentence": "Everybody joined the game."
+  },
+  {
+    "word": "even",
+    "year": 2,
+    "sentence": "Even the baby laughed."
+  },
+  {
+    "word": "busy",
+    "year": 2,
+    "sentence": "Mum is busy cooking."
+  },
+  {
+    "word": "people",
+    "year": 2,
+    "sentence": "Lots of people came to the fair."
+  },
+  {
+    "word": "water",
+    "year": 2,
+    "sentence": "Please drink some water."
+  },
+  {
+    "word": "again",
+    "year": 2,
+    "sentence": "Can we play again?"
+  },
+  {
+    "word": "half",
+    "year": 2,
+    "sentence": "I ate half the sandwich."
+  },
+  {
+    "word": "money",
+    "year": 2,
+    "sentence": "I saved my pocket money."
+  },
+  {
+    "word": "mr",
+    "year": 2,
+    "sentence": "Mr Smith is our teacher."
+  },
+  {
+    "word": "mrs",
+    "year": 2,
+    "sentence": "Mrs Jones waved hello."
+  },
+  {
+    "word": "parents",
+    "year": 2,
+    "sentence": "My parents came to school."
+  },
+  {
+    "word": "christmas",
+    "year": 2,
+    "sentence": "We put up lights at Christmas."
+  },
+  {
+    "word": "great",
+    "year": 2,
+    "sentence": "You did a great job."
+  },
+  {
+    "word": "break",
+    "year": 2,
+    "sentence": "Let us take a short break."
+  },
+  {
+    "word": "steak",
+    "year": 2,
+    "sentence": "I had steak for dinner."
+  },
+  {
+    "word": "pretty",
+    "year": 2,
+    "sentence": "The flowers look pretty."
+  },
+  {
+    "word": "beautiful",
+    "year": 2,
+    "sentence": "What a beautiful rainbow!"
+  },
+  {
+    "word": "after",
+    "year": 2,
+    "sentence": "We played after lunch."
+  },
+  {
+    "word": "fast",
+    "year": 2,
+    "sentence": "The rabbit runs fast."
+  },
+  {
+    "word": "last",
+    "year": 2,
+    "sentence": "This is the last biscuit."
+  },
+  {
+    "word": "past",
+    "year": 2,
+    "sentence": "We walked past the shop."
+  },
+  {
+    "word": "father",
+    "year": 2,
+    "sentence": "My father made breakfast."
+  },
+  {
+    "word": "class",
+    "year": 2,
+    "sentence": "Our class went outside."
+  },
+  {
+    "word": "grass",
+    "year": 2,
+    "sentence": "The grass is green."
+  },
+  {
+    "word": "pass",
+    "year": 2,
+    "sentence": "Please pass the ball."
+  },
+  {
+    "word": "plant",
+    "year": 2,
+    "sentence": "We will plant a tree."
+  },
+  {
+    "word": "path",
+    "year": 2,
+    "sentence": "Follow the path to the gate."
+  },
+  {
+    "word": "bath",
+    "year": 2,
+    "sentence": "I had a warm bath."
+  },
+  {
+    "word": "hour",
+    "year": 2,
+    "sentence": "The journey took an hour."
+  },
+  {
+    "word": "move",
+    "year": 2,
+    "sentence": "Please move your chair."
+  },
+  {
+    "word": "prove",
+    "year": 2,
+    "sentence": "Can you prove your answer?"
+  },
+  {
+    "word": "improve",
+    "year": 2,
+    "sentence": "I want to improve my reading."
+  },
+  {
+    "word": "sure",
+    "year": 2,
+    "sentence": "Are you sure about that?"
+  },
+  {
+    "word": "sugar",
+    "year": 2,
+    "sentence": "I put sugar in my tea."
+  },
+  {
+    "word": "eye",
+    "year": 2,
+    "sentence": "I closed one eye."
+  },
+  {
+    "word": "could",
+    "year": 2,
+    "sentence": "Could you help me?"
+  },
+  {
+    "word": "should",
+    "year": 2,
+    "sentence": "You should wear a coat."
+  },
+  {
+    "word": "would",
+    "year": 2,
+    "sentence": "I would like some juice."
+  },
+  {
+    "word": "who",
+    "year": 2,
+    "sentence": "Who is at the door?"
+  },
+  {
+    "word": "whole",
+    "year": 2,
+    "sentence": "I ate the whole apple."
+  },
+  {
+    "word": "any",
+    "year": 2,
+    "sentence": "Do you have any crayons?"
+  },
+  {
+    "word": "many",
+    "year": 2,
+    "sentence": "How many books are there?"
+  },
+  {
+    "word": "clothes",
+    "year": 2,
+    "sentence": "My clothes are clean."
+  }
+]
